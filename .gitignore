@@ -1,4 +1,1 @@
-
-
-#ignore node_modules
-compound_wecker/node_modules
+frontend/node_modules
